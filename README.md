@@ -1,5 +1,7 @@
 # CB-BDTI
 
+**Please note that support questions will not be monitored during the summer period of July and August. **
+
 CEF Context Broker integration with the Big Data Test Infrastructure.
 
 This Integration Solution connects a Orion Context Broker with a Cygnus,
